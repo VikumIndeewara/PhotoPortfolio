@@ -3,9 +3,10 @@ import { ChevronDown, ChevronLeft, ChevronRight } from 'lucide-react';
 
 // --- ARRAY OF SLIDER IMAGES (Same as before) ---
 const sliderImages: string[] = [
-    "https://images.pexels.com/photos/1983032/pexels-photo-1983032.jpeg?auto=compress&cs=tinysrgb&w=1920",
-    "https://images.pexels.com/photos/386009/pexels-photo-386009.jpeg?auto=compress&cs=tinysrgb&w=1920",
-    "https://images.pexels.com/photos/1036856/pexels-photo-1036856.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "https://tskasgjpughrtbfhvamh.supabase.co/storage/v1/object/public/pdb/portfolio/Hero/isawjupiter-aUYE5KjzGr8-unsplash.jpg",
+    "https://tskasgjpughrtbfhvamh.supabase.co/storage/v1/object/public/pdb/portfolio/Hero/land-o-lakes-inc-D43JYb0yTKU-unsplash.jpg",
+    "https://tskasgjpughrtbfhvamh.supabase.co/storage/v1/object/public/pdb/portfolio/Hero/mykyta-kravcenko-6oImh1AIAnU-unsplash.jpg",
+    "https://tskasgjpughrtbfhvamh.supabase.co/storage/v1/object/public/pdb/portfolio/Hero/qingbao-meng-01_igFr7hd4-unsplash.jpg",
 ];
 
 const HeroSlider: React.FC = () => {
