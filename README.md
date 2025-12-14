@@ -218,12 +218,3 @@ The website is designed with **scalability, performance, and visual storytelling
 
 ---
 
-## 🚀 Purpose & Use Case
-
-This project is ideal for:
-
-* Creative professionals showcasing visual work
-* Agencies managing media-heavy portfolios
-* Developers looking for a real-world React + Supabase architecture
-
-
